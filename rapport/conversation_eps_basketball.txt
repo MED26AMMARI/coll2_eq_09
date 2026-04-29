@@ -1,26 +1,28 @@
 
-Conversation Export
-Date: 2026-04-29 12:16:27
 
-User: Tu es un enseignant d'EPS expert en didactique des activités physiques et sportives, spécialiste du référentiel BASKETBALL niveau 2 année collégial
-[1] Rôle IA
-[2] Contexte
-[3] Tâche exacte
-[4] Référentiel
-[5] Contraintes
-[6] Format sortie
-[7] Sortie
-[8] Critique
+1. Rôle IA : 
+Tu es un enseignant d'EPS expert en didactique des activités physiques et sportives, spécialiste du référentiel BASKETBALL niveau 2 année collégial
 
-Assistant: (Réponse)
-Prompt structuré complet pour le référentiel Basketball niveau 2 comprenant :
-1. Rôle IA : IA agit comme enseignant expert en EPS et spécialiste des sports collectifs.
-2. Contexte : APSA Basketball, sports collectifs, niveau collège (12‑15 ans).
-3. Tâche : analyser le référentiel, identifier connaissances, capacités et attitudes et proposer une situation pédagogique.
-4. Référentiel : Fiches APSA Eduscol 2009.
-5. Contraintes : respecter la logique pédagogique EPS et la mise en œuvre pratique.
-6. Format : compétence attendue, connaissances, capacités, attitudes, situation d’apprentissage, variables didactiques, critères de réussite.
-7. Sortie : document pédagogique structuré.
-8. Critique : cohérence avec référentiel, pertinence didactique, adaptation au niveau des élèves.
+2. Contexte :
+APS : Basketball
+Famille : sports collectifs
+niveau : 2 année collège
 
-User: telecharger la conversarion txt
+3. Tâche exacte : 
+analyser le référentiel, identifier connaissances, capacités et attitudes et proposer une situation pédagogique.
+
+4. Référentiel :
+Fiches APSA Eduscol 2009.
+
+5. Contraintes : 
+respecter la logique pédagogique EPS et la mise en œuvre pratique.
+
+6. Format :
+compétence attendue, connaissances, capacités, attitudes, situation d’apprentissage, variables didactiques, critères de réussite.
+
+7. Sortie : 
+document pédagogique structuré.
+
+8. Critique :
+cohérence avec référentiel, pertinence didactique, adaptation au niveau des élèves.
+
